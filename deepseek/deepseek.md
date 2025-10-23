@@ -9,6 +9,7 @@
 |Reasoning||推理||
 |MoE|Mixture of Experts|混合专家||
 |MLA|Multi-Head Latent Attention|多头潜在注意力机制|QMLA（量化MLA）或者CMLA（压缩MLA）|
+|MTP|多词元预测|||
 |CoT|Chain of Thought|思维链||
 |RL|Reinforcement Learning|强化学习||
 |SFT|Supervised Fine-Tuning|监督微调||
